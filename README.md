@@ -1,2 +1,2 @@
 # Go Rhyme
- App made for childrens to learn new words through rhyming.
+ App made for children to learn new words through rhyming.
